@@ -8,7 +8,7 @@ but very useful once you get used to it, and figuring it out was very satisfying
 
 <h3 align="center">What are you excited or eager to learn more about?</h3>
 
-  I am especially looking forward to leearning how to program in languages such as Python and JavaScript.
+  I am especially looking forward to learning how to program in languages such as Python and JavaScript.
 That said, learning about Git and GitHub has also been quite interesting and I am excited for all the
 material that we will cover.
 
