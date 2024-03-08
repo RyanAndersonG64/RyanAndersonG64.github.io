@@ -1,5 +1,3 @@
-<h1 align="center"> <a href="https://ryanandersong64.github.io/">Ryan Anderson</a></h1>
-
 <h2 align="center">Ryan Anderson's Blog </h2>
 <h2 align="center"><img src="blogimage1.jpg" alt="Floating Numbers"></h2>
 
