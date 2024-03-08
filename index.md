@@ -1,4 +1,4 @@
-# [Ryan Anderson](https://ryanandersong64.github.io/)
+<h1 align="center"> [Ryan Anderson](https://ryanandersong64.github.io/) </h1>
 
 ## Ryan Anderson's Blog 
 ![Floating Numbers](blogimage1.jpg)
