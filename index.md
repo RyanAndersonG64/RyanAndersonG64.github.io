@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="[url](https://ryanandersong64.github.io/)">Ryan Anderson</a></h1>
+<h1 align="center"> <a href="https://ryanandersong64.github.io/">Ryan Anderson</a></h1>
 
 ## Ryan Anderson's Blog 
 ![Floating Numbers](blogimage1.jpg)
