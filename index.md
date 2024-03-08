@@ -1,7 +1,7 @@
-# Ryan Anderson <!-- add link to blog -->
+# [Ryan Anderson](https://ryanandersong64.github.io/)
 
-## Ryan Anderson's Blog
-<!-- Add image -->
+## Ryan Anderson's Blog 
+![Floating Numbers](blogimage1.jpg)
 
 ### Was your first week what you expected? Why? Why not?
 gfhfgh
