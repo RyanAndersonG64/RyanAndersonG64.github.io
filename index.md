@@ -21,3 +21,23 @@ whenever I have come across it.
 
   I am a huge roller coaster enthusiast, and that interest was what initially inspired me to pursue an
 engineering degree.  I enjoy using software such as No Limits 2 to create my own roller coaster designs.
+
+<h3 align="center">What is something you wish you could do but currently do not have the coding skills to accomplish?</h3>
+
+One thing I would really like making with the right coding skills is videogame mods, in particular Pokemon romhacks.  I enjoy playing games with mods to enhance gameplay and provide a different experience after playing the game for a long time.  Being able to make my own would be really cool.
+
+<h3 align="center">What are you struggling with?</h3>
+
+The biggest thing I struggle with is time management.  I have ADHD and am easily distracted, so I often struggle at the beginning of each week when I look at everything to be done at once and it seems insurmountable.  Once I manage to get started, I have an easier time focusing on each individual step and seeing the mountain of work ahead get smaller.
+
+<h3 align="center">How do you solve a problem? </h3>
+
+If the first few ideas that come to mind don't work, I like to go on a walk and think
+about things.  I either replay the problem in my mind and eventually an idea for a
+solution comes to me, or I clear my mind and think about other things and come back
+ready to attack the problem again, which helps me think more easily.
+
+<h3 align="center">What methods do you use to help yourself get unstuck?</h3>
+
+When I get stuck, I usually think of a couple ideas to try right away.  If they don't work, I try to Google the problem and I can sometimes find an answer.  If that doesn't work, I take a walk as I mentioned above.  If I still can't solve the problem, I post it in the Help channel in Slack.  Everyone has been very helpful in
+giving each other ideas to solve problems.
