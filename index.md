@@ -41,3 +41,11 @@ ready to attack the problem again, which helps me think more easily.
 
 When I get stuck, I usually think of a couple ideas to try right away.  If they don't work, I try to Google the problem and I can sometimes find an answer.  If that doesn't work, I take a walk as I mentioned above.  If I still can't solve the problem, I post it in the Help channel in Slack.  Everyone has been very helpful in
 giving each other ideas to solve problems.
+
+<h3 align="center">What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?</h3>
+
+I find it very interesting how several types of coding can come together to affect how a webpage looks and works. It is incredible what styles and effects can be achieved with only a few lines of code.
+
+<h3 align="center">What are some objects that your blog incorporates?</h3>
+
+My blog does not currently incorporate any elemets from CSS or JavaScript, but I use html headers and text alignment for the question titles.
