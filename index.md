@@ -49,3 +49,16 @@ I find it very interesting how several types of coding can come together to affe
 <h3 align="center">What are some objects that your blog incorporates?</h3>
 
 My blog does not currently incorporate any elemets from CSS or JavaScript, but I use html headers and text alignment for the question titles.
+
+<h3 align="center">What was helpful during Onboarding working remotely?</h3>
+
+The daily standup sessions helped to gauge how much work I should have done each day,
+and everyone was extremely helpful when I posted in the Slack help channel.
+
+<h3 align="center">What hindered your progress during Onboarding?</h3>
+
+One big problem for me during onboarding was staying focused and on top of my work.  Now that the bootcamp is fully in-person, I think this should be less of an issue for me.
+
+<h3 align="center">How did you overcome challenges during Onboarding?</h3>
+
+Whenever I got stuck during a project, I would take a walk and clear my mind.  Sometimes the solution would come to me out of nowhere, and other times I would come back and be ready to attack the problem again with clearer thinking.
