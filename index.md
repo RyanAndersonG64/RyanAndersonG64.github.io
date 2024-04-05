@@ -62,3 +62,15 @@ One big problem for me during onboarding was staying focused and on top of my wo
 <h3 align="center">How did you overcome challenges during Onboarding?</h3>
 
 Whenever I got stuck during a project, I would take a walk and clear my mind.  Sometimes the solution would come to me out of nowhere, and other times I would come back and be ready to attack the problem again with clearer thinking.
+
+<h3 align="center">What is the number one thing that held you back this week? Why?</h3>
+
+The main thing that held me back was not initially knowing how to render HTML content from JavaScript, but I enjoyed learning how to do that and I was able to get my mind reader working with a relatively small amount of HTML.
+
+<h3 align="center">What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap or Atomic Design?</h3>
+
+I would like to learn more about positioning objects in Bootstrap.  Getting objects in the right place was difficult for me and it felt hard to understand at times.
+
+<h3 align="center">What is your "why"?</h3>
+
+There are a few things that keep me motivated to keep coming each day and working hard.  One is that programming is something I enjoy and find engaging, much more so than what I was doing before as an engineer.  Another is that I would like to work a remote or hybrid job, which was not really possible in my previous field due to the need to communicate with manufacturers.
