@@ -1,6 +1,8 @@
 <h2 align="center">Ryan Anderson's Blog </h2>
 <h2 align="center"><img src="blogimage1.jpg" alt="Floating Numbers"></h2>
 
+<a href = 'contact.html'>Contact Info</a>
+
 <h3 align="center">Was your first week what you expected? Why? Why not?</h3>
 
   This first week has not been what I expected, but in a good way.  Git can be surprisingly complicated,
@@ -74,3 +76,5 @@ I would like to learn more about positioning objects in Bootstrap.  Getting obje
 <h3 align="center">What is your "why"?</h3>
 
 There are a few things that keep me motivated to keep coming each day and working hard.  One is that programming is something I enjoy and find engaging, much more so than what I was doing before as an engineer.  Another is that I would like to work a remote or hybrid job, which was not really possible in my previous field due to the need to communicate with manufacturers.
+
+<a href = 'blog-post-sprint-2.html'>Sprint 2 Blog</a>
