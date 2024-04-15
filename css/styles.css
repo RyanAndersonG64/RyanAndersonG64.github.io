@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+.red {
+    width: 400px;
+    height: 900px;
+}
+
+.contactCardBackground {
+    background-image:linear-gradient(45deg, red, gray);
+    width: 400px;
+    height: 900px;
+}
+
+.cardImage {
+    background-image: url('../Images/contact_card_photo.jpg');
+    background-size: cover;
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 100px;
+}
+
+#nameBox {
+    font-family: 'Lucida Handwriting';
+    text-align: center;
+    position: relative;
+    top: 200px;
+    color: a9a9a9;
+    font-size: 35px;
+}
+
+.logoBox {
+    background-color: rgba(255,255,255,0.3);
+    width: 350px;
+    height: 300px;
+    position: relative;
+    top: 245px;
+    border-radius: 10%;
+}
+
+.col-6 {
+    width: 175px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+}
