@@ -1,3 +1,11 @@
+html {
+    height: 100%;    
+}
+
+body {
+    height: 100%;
+}
+
 h1 {
     text-align: center;
 }
@@ -42,16 +50,12 @@ h1 {
 }
 
 .col-6 {
-    width: 175px;
-    height: 150px;
     text-align: center;
-    line-height: 150px;
 }
 
 .siteTop {
     position: relative;
     height: 75px;
-    width: 1920px;
     background-color: #4d4dff;
     text-align: right;
     color: black;
@@ -59,9 +63,7 @@ h1 {
 
 .bottomBar {
     position: relative;
-    bottom: 0px;
-    height: 75px;
-    width: 1920px;
+    height: 100px;
     background-color: #4d4dff;
     text-align: center;
     font-size: 20px;
@@ -69,17 +71,14 @@ h1 {
 
 .aboveTheFoldRight {
     position: relative;
-    width: 1000px;
-    height: 750px;
     background-image: url('../Images/programming.jpg');
 }
 
 .aboveTheFoldLeft {
     text-align: center;
     position: relative;
-    width: 920px;
-    height: 750px;
     background-color: #cccccc;
+    overflow-y: scroll;
 }
 
 #homeLink {
@@ -96,6 +95,7 @@ h1 {
     font-size: 25px;
     position: relative;
     right: 100px;
+    display: inline-block;
 }
 
 #aboveFoldHeader {
