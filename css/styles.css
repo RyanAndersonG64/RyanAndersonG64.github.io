@@ -123,3 +123,8 @@ h1 {
     padding: 0px;
     position: relative;
 }
+
+.project-image {
+    width: 10%;
+    height: auto;
+}
