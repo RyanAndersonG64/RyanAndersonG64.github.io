@@ -125,15 +125,51 @@ h1 {
 }
 
 .projects {
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
 }
 
 .project {
+    padding: 1%;
+    background-color: rgb(175, 175, 175);
     text-align: center;
     margin: auto;
+    border: solid 1px;
+}
+
+.project a {
+    text-decoration: none;
+    color: black
+}
+
+.project a:hover {
+    text-decoration: underline;
 }
 
 .project-image {
-    width: 10%;
+    width: 50%;
     height: auto;
+}
+
+@media (min-width: 768px) {
+    .projects-container {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .project {
+        max-width: 48%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .projects-container {
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+    }
+
+    .project {
+        max-width: 45%;
+    }
 }
