@@ -124,6 +124,10 @@ h1 {
     position: relative;
 }
 
+.project {
+    text-align: center;
+}
+
 .project-image {
     width: 10%;
     height: auto;
