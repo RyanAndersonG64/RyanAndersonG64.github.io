@@ -124,6 +124,10 @@ h1 {
     position: relative;
 }
 
+.projects {
+    display: inline-block;
+}
+
 .project {
     text-align: center;
     margin: auto;
