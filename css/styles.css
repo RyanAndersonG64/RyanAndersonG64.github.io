@@ -141,7 +141,7 @@ h1 {
 }
 
 .project a {
-    text-decoration: underline;
+    text-decoration: none;
     color: black
 }
 
