@@ -152,6 +152,14 @@ h1 {
 .project-image {
     width: 50%;
     height: auto;
+    display: inline-block;
+}
+
+.mind-reader-image {
+    width: 20%;
+    margin: 5%;
+    height: auto;
+    display: inline-block;
 }
 
 @media (min-width: 768px) {
