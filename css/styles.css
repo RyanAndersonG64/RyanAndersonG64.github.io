@@ -10,6 +10,34 @@ h1 {
     text-align: center;
 }
 
+.blog {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.blog a {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+.contact-info {
+    text-align: center;
+    text-decoration: none;
+}
+
+.contact-info a {
+    text-align: center;
+    text-decoration: none;
+}
+
+.blog-question {
+    margin-top: 1%;
+    text-align: center;
+}
+
 .red {
     width: 400px;
     height: 900px;
