@@ -190,6 +190,11 @@ h1 {
     display: inline-block;
 }
 
+#resume {
+    width: 90%;
+    height: 90%;
+}
+
 @media (min-width: 768px) {
     .projects-container {
         grid-template-columns: 1fr 1fr;
