@@ -1,5 +1,5 @@
 html {
-    height: 100%;    
+    height: 100%;
 }
 
 body {
@@ -44,7 +44,7 @@ h1 {
 }
 
 .contactCardBackground {
-    background-image:linear-gradient(45deg, red, gray);
+    background-image: linear-gradient(45deg, red, gray);
     width: 400px;
     height: 900px;
 }
@@ -69,7 +69,7 @@ h1 {
 }
 
 .logoBox {
-    background-color: rgba(255,255,255,0.3);
+    background-color: rgba(255, 255, 255, 0.3);
     width: 350px;
     height: 300px;
     position: relative;
@@ -84,7 +84,55 @@ h1 {
 .col-6 {
     text-align: center;
     vertical-align: middle;
-    margin: auto
+    margin: auto;
+}
+
+.col-6 img {
+    position: relative;
+}
+
+.col-6 img:hover {
+    animation-name: logoslide;
+    animation-duration: 250ms;
+    animation-iteration-count: infinite;
+}
+
+@keyframes logoslide {
+    0% {
+        right: 2px;
+    }
+
+    12.5% {
+        right: 1px;
+    }
+
+    25% {
+        right: 0;
+    }
+
+    37.5% {
+        left: 1px;
+    }
+
+    50% {
+        left: 2px;
+    }
+
+    62.5% {
+        left: 1px;
+    }
+
+    75% {
+        left: 0;
+    }
+
+    87.5% {
+        right: 1px;
+    }
+
+    100% {
+        right: 2px;
+    }
 }
 
 .img {
@@ -92,17 +140,19 @@ h1 {
 }
 
 .siteTop {
+    width: 100%;
     position: relative;
     height: 75px;
-    background-color: #4d4dff;
+    background: linear-gradient(to right, #4d4dff, #4db8ff);
     text-align: right;
     color: black;
 }
 
 .bottomBar {
+    width: 100%;
     position: relative;
     height: 100px;
-    background-color: #4d4dff;
+    background: linear-gradient(to right, #4db8ff, #4d4dff);
     text-align: center;
     font-size: 20px;
 }
@@ -137,19 +187,19 @@ h1 {
 }
 
 #aboveFoldHeader {
-    font-family: 'Lucida Console';
     font-size: 50px;
 }
 
 #aboveFoldSubHeader {
-    font-family: 'Lucida Console';
     font-size: 30px;
 }
 
-.siteIntro {
-    font-size: 12px;
+#siteIntro {
+    font-family: "Times New Roman";
+    font-size: 140%;
     padding: 0px;
     position: relative;
+    line-height: 135%;
 }
 
 .projects {
@@ -161,16 +211,46 @@ h1 {
 
 .project {
     padding: 1%;
-    background-color: rgb(175, 175, 175);
     text-align: center;
     margin: auto;
     border: solid 1px;
     margin-top: 1%;
 }
 
+#coaster-track {
+    background-image: linear-gradient(315deg, rgb(175, 175, 175), rgb(125, 125, 125));
+}
+
+#weather-app {
+    background-image: linear-gradient(45deg, rgb(0, 200, 255), rgb(0, 255, 255));
+}
+
+#connect-four {
+    background-image: linear-gradient(135deg, yellow, rgb(255, 255, 200));
+}
+
+#to-do-list {
+    background-image: linear-gradient(45deg, rgb(125, 125, 125), rgb(200, 200, 200));
+}
+
+#mind-reader {
+    background-image: linear-gradient(315deg, rgb(235, 235, 235), rgb(175, 175, 175));
+}
+
+#tic-tac-toe {
+    background-image: linear-gradient(180deg, rgb(0, 0, 0), rgb(255, 255, 255));
+}
+
+#restaurant {
+    background-image: linear-gradient(135deg, rgb(25, 200, 25), rgb(255, 255, 200));
+}
+
+#cycling-store {
+    background-image: linear-gradient(180deg, rgb(200, 0, 0), rgb(175, 175, 175));
+}
+
 .project a {
     text-decoration: none;
-    color: black
 }
 
 .project a:hover {
